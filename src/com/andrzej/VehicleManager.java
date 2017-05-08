@@ -7,7 +7,7 @@ public class VehicleManager {
 
 	//methods that manages Vehicles
 
-//coś tam
+//coś 
 	// create a list of vehicles that are in garage and list of vehicles that are on road
 	//add a vehicle
 	//send a vehicle to somewhere
