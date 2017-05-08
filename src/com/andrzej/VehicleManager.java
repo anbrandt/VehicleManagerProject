@@ -7,7 +7,7 @@ public class VehicleManager {
 
 	//methods that manages Vehicles
 
-//coś 
+//coś
 	// create a list of vehicles that are in garage and list of vehicles that are on road
 	//add a vehicle
 	//send a vehicle to somewhere
@@ -15,4 +15,5 @@ public class VehicleManager {
 
 	//use extends
 
+	//make sure you have a good methods names 
 }
