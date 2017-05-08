@@ -5,4 +5,5 @@ package com.andrzej;
  */
 public class GpsTracker {
 	//create an object for gps tracking doubles - lattitude and longittudes
+	//
 }

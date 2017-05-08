@@ -4,6 +4,18 @@ public class Main {
 
     public static void main(String[] args) {
 
+   Vehicle car1 = new Vehicle(33000, "Car", 2400,
+		   "Ford", "KR001" );
+   Vehicle car2 = new Vehicle(50000, "Car", 55500,
+		   "Opel", "KR002");
+   Vehicle bus1 = new Vehicle(40000, "Bus", 4000,
+		   "BusBrand1", "KR003");
+   Vehicle bus2 = new Vehicle(60000, "Bus", 50000,
+		   "BusBrand2", "KR004");
+
+
+
+
 
 //create new vehicles based on for loop
 
