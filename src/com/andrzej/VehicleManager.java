@@ -15,5 +15,12 @@ public class VehicleManager {
 
 	//use extends
 
-	//make sure you have a good methods names 
+	//make sure you have a good methods names
+
+
+
+
+
+	//after making all the methods used to operate on the fleet, write some methods that will test the methods
+	//on problematic inputs (mistake in drivers name, or cars name)
 }
