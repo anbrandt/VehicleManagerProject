@@ -10,7 +10,7 @@ public class Vehicle {
 	//use setter for mileage and driver in order not to extend the size of constructor in the Vehicle class
 	private Integer weightOfTheVehicle;
 	private Integer mileageOfTheVehicle;
-	private String typeOfTheVehicle; 
+	private String typeOfTheVehicle;
 	private String brandOfTheVehicle;
 	private String registrationNumber;
 	private GpsTracker gpsPosition; //call the GpsTracker class to create field gpsposition
